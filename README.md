@@ -3,7 +3,9 @@
 
 Public GitHub Pages site for project support pages and app policies.
 
-## FoodLens
+## MenuCheck
 
-- Support: `https://longtranpham.github.io/foodlens/support/`
-- Privacy: `https://longtranpham.github.io/foodlens/privacy/`
+- Support: `https://longtranpham.github.io/menucheck/support/`
+- Privacy: `https://longtranpham.github.io/menucheck/privacy/`
+
+Legacy `/foodlens/` support and privacy URLs remain live as compatibility pages.
